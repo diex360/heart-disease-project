@@ -1,4 +1,4 @@
-# 🫀 Detective Cardíaco: Análisis de Riesgo de Enfermedad Cardíaca
+# Detective Cardíaco: Análisis de Riesgo de Enfermedad Cardíaca
 
 Proyecto de Primer Corte — Aprendizaje de Máquina No Supervisado (Fundamentos Probabilísticos del Machine Learning). Universidad de la Sabana, 2026-II.
 
