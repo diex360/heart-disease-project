@@ -71,4 +71,5 @@ El notebook carga automáticamente `data/processed.cleveland.data` (con manejo r
 
 ## Autor
 
-Proyecto individual — Universidad de la Sabana, Facultad de Ingeniería.eniería.
+**Diego Alejandro Sandoval González** — Universidad de la Sabana, Facultad de Ingeniería
+Proyecto individual, Aprendizaje de Máquina No Supervisado, 2026-II
