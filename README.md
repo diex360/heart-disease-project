@@ -25,7 +25,7 @@ Python (pandas, scipy, scikit-learn) sobre Jupyter Notebook. Limpieza de datos, 
 | 1 | Probabilidad condicional | P(enfermedad\|dolor asintomático) = 72.5%, vs. 46.1% de prevalencia base |
 | 2 | Teorema de Bayes | P(enfermedad\|angina inducida) = 76.3%; razón de verosimilitud (LR=3.76) mayor que la del dolor de pecho (LR=3.08) |
 | 3 | Verosimilitud / MLE | Colesterol: diferencia de medias pequeña entre enfermos y sanos (251.9 vs. 243.5, d=0.161) |
-| 4 | Distribuciones paramétricas | sex~Bernoulli(0.68); cp~Categórica; chol/thalach~Gaussiana aproximada (con limitación documentada) |
+| 4 | Distribuciones paramétricas | sex Bernoulli(0.68); cp~Categórica; chol/thalach~Gaussiana aproximada (con limitación documentada) |
 | 5 | Esperanza y varianza | Frecuencia cardíaca máxima: 139.1 (enfermos) vs. 158.6 (sanos), diferencia muy significativa (p≈6.11×10⁻¹⁴) |
 | 6 | Independencia y correlación | Sexo NO independiente de enfermedad (χ²=21.85, p<0.001); sin multicolinealidad severa entre numéricas |
 | 7 | Prior y posterior | Actualización bayesiana secuencial: 46.1% → 93.0% combinando 3 evidencias (n=57); el orden no altera el resultado final |
